@@ -1,0 +1,6 @@
+customhost = "employee07.cujavq47oj5k.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "admin12345"
+customdb = "employee07"
+custombucket = "employeebucket07"
+customregion = "us-east-1"
